@@ -1,0 +1,2170 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"webk",
+				"-webkit-transform:   (property)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"ng-",
+				"ng-hide"
+			],
+			[
+				"ng-c",
+				"ng-click"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"ne",
+				"newPost"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"control",
+				"control-group"
+			],
+			[
+				"ng",
+				"ng-controller"
+			],
+			[
+				"ti",
+				"$scope.tickerID"
+			],
+			[
+				"tic",
+				"tickerID"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"tick",
+				"tickerData"
+			],
+			[
+				"ticker",
+				"tickerId"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"ev",
+				"$scope.events"
+			],
+			[
+				"row",
+				"row-fluid"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"$root",
+				"$rootScope"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"post",
+				"Posts"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"transform",
+				"-webkit-transform:   (property)"
+			],
+			[
+				"se",
+				"createServer"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Con",
+				"Content-Disposition"
+			],
+			[
+				"act",
+				"actions"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"for",
+				"forceDownload"
+			],
+			[
+				"S",
+				"statusCode"
+			],
+			[
+				"date",
+				"dateString"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"widget",
+				"widget_linktitle"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"ca",
+				"catI"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"content",
+				"contentString"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"conte",
+				"contentString"
+			],
+			[
+				"map",
+				"maps"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"page",
+				"page-template-page-wide-php"
+			],
+			[
+				"wp",
+				"wp_enqueue_script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 7830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/app/index.html",
+			"settings":
+			{
+				"buffer_size": 3150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_font-awesome.scss",
+			"settings":
+			{
+				"buffer_size": 2700,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_socialnav.scss",
+			"settings":
+			{
+				"buffer_size": 533,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_imagecontainer.scss",
+			"settings":
+			{
+				"buffer_size": 1546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_main.scss",
+			"settings":
+			{
+				"buffer_size": 3192,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_normalize.scss",
+			"settings":
+			{
+				"buffer_size": 9508,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hochitom/Projekte/privat/portfolio/sass/_base.scss",
+		"/Users/hochitom/Projekte/privat/portfolio/sass/_font-awesome-original.scss",
+		"/Users/hochitom/Projekte/privat/portfolio/app/index.html",
+		"/Users/hochitom/Projekte/privat/portfolio/sass/_font-awesome.scss",
+		"/Users/hochitom/Projekte/privat/portfolio/sass/_normalize.scss",
+		"/Users/hochitom/Projekte/privat/portfolio/sass/main.scss",
+		"/Users/hochitom/Projekte/privat/portfolio/sass/_main.scss",
+		"/Users/hochitom/Projekte/privat/portfolio/package.json",
+		"/Users/hochitom/Projekte/privat/Gruntfile.js",
+		"/Users/hochitom/Projekte/privat/portfolio/Gruntfile.js",
+		"/Users/hochitom/Projekte/node-liveticker/routes/home.js",
+		"/Users/hochitom/Projekte/playground/bumm_test/package.json",
+		"/Users/hochitom/Projekte/node-liveticker/routes/admin.js",
+		"/Users/hochitom/Projekte/node-liveticker/views/layout.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/Gruntfile.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/_test.scss",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/modules/_comment-form.scss",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/server.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/node_modules/express.io/node_modules/express/lib/router/route.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/routes/events.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/events/index.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/layout.jade",
+		"/Users/hochitom/Projekte/playground/parallax-angular-app/app.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/routes/admin_events.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/layout.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/models/comments.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/events/index.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/mixins/form-helpers.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/events/create.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/events/detail.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/models/ticker.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/routes/realtime.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/public/scripts/admin/app.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/ticker/detail.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/ticker/detail.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/routes/admin_api.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/mixins/match-form-options.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/base/_base.scss",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/main.scss",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/public/scripts/app/services/websockets.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/base/_main.scss",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/mixins/comment-stream.jade",
+		"/Users/hochitom/Projekte/privat/portfolio/.gitignore",
+		"/Users/hochitom/Projekte/node-liveticker/app.js",
+		"/Users/hochitom/Projekte/node-liveticker/public/js/main.js",
+		"/Users/hochitom/Projekte/playground/parallax-angular-app/index.html",
+		"/Users/hochitom/Projekte/nTweet/public/scripts/app/app.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/admin.scss",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/admin/_base.scss",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/events/create.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/ticker/index.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/ticker/delete.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/public/scripts/admin/main.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/ticker/edit.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/ticker/index.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/config/development.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/package.json",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/public/scripts/app/controller/comment-form.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/public/scripts/app/controller/stream.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/ticker/create.jade",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/models/posts.js",
+		"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/scss/modules/_stream.scss",
+		"/Users/hochitom/Projekte/playground/node_test/app.js",
+		"/Users/hochitom/Projekte/playground/node_test/mappings.js",
+		"/Users/hochitom/Projekte/playground/node_test/actions.js",
+		"/Users/hochitom/Projekte/playground/bumm_test/routes/stream.js",
+		"/Users/hochitom/Projekte/playground/bumm_test/views/layout.jade",
+		"/Users/hochitom/Projekte/playground/bumm_test/views/stream/index.jade",
+		"/Users/hochitom/Projekte/playground/bumm_test/routes/home.js",
+		"/Users/hochitom/Projekte/playground/bumm_test/views/stream/create.jade",
+		"/Users/hochitom/Projekte/playground/bumm_test/models/stream.js",
+		"/Users/hochitom/Projekte/playground/bumm_test/public/scripts/main.js",
+		"/Users/hochitom/Projekte/playground/bumm_test/app.js",
+		"/Users/hochitom/Projekte/playground/liveticker/app.js",
+		"/Users/hochitom/Projekte/playground/bumm_test/views/stream/edit.jade",
+		"/Users/hochitom/Projekte/playground/liveticker/pages/stream.html",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/functions.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/events-overview.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/events-detail.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/downloads.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/foot.inc",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/head.inc",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/home.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/news-overview.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/faq.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/page-aktuelles.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/jes/_base_styles.scss",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/foundation/components/modules/_navbar.scss",
+		"/Users/hochitom/Downloads/offcanvas/offcanvas-4.html",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/teacher.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/snippets/sidebar.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/class.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/basic-page.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/jes/_jes.scss",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/snippets/breadcrump.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/foundation/_settings.scss",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/redirect-to-1st-child.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/snippets/widgets.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/screen.scss",
+		"/Users/hochitom/Projekte/_Frameworks/Foundation/templates/project/index.html",
+		"/Users/hochitom/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/hardwrk/Users/hochitom/Projekte/JES MS Kindberg/.gitignore",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/_foundation.scss",
+		"/Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/_compass.scss",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/stylesheets/screen.css",
+		"/Library/Ruby/Gems/1.8/gems/compass-0.12.2/lib/compass.rb",
+		"/Users/hochitom/Projekte/JES MS Kindberg/codekit-config.json",
+		"/Users/hochitom/Projekte/_Frameworks/Foundation/test/scss/styles.scss",
+		"/Users/hochitom/Projekte/_Frameworks/Foundation/templates/project/scss/app.scss",
+		"/Users/hochitom/Projekte/_Frameworks/Foundation/templates/project/scss/_settings.scss",
+		"/Library/Ruby/Gems/1.8/gems/compass-0.12.2/Rakefile",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/sitemap.php",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/foundation/common/_base.scss",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/foundation/functions/modular-scale.scss",
+		"/Users/hochitom/Projekte/_Frameworks/Foundation/Gemfile",
+		"/Users/hochitom/Projekte/JES MS Kindberg/sass/basestyles.scss",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/stylesheets/basestyles.css",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/stylesheets/foundation/functions/modular-scale.css",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/stylesheets/print.css",
+		"/Users/hochitom/Projekte/JES MS Kindberg/src/site/templates/stylesheets/ie.css",
+		"/Users/hochitom/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/hochitom/Projekte/JES MS Kindberg/scss/basestyles.scss",
+		"/Users/hochitom/Projekte/Sturm12/src/wp-content/themes/sturm12/page-ohne-sidebar.php",
+		"/Users/hochitom/Projekte/Sturm12/sass/map.scss",
+		"/Users/hochitom/Projekte/Sturm12/src/wp-content/plugins/sturmologe/sturmologe.php",
+		"/Users/hochitom/Projekte/Sturm12/src/wp-content/plugins/sturm12-map/js/s12map.js",
+		"/Users/hochitom/Projekte/Sturm12/src/wp-content/plugins/sturm12-map/template.php",
+		"/Users/hochitom/Projekte/Sturm12/src/wp-content/themes/sturm12/style.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"icon",
+			"[class^=\"icon-\"]",
+			"gith",
+			"facebo",
+			"twitter",
+			"ir ",
+			"90deg",
+			"watch",
+			"compa",
+			"test",
+			"jsh",
+			"coffee",
+			"concurrent",
+			"jshi",
+			"compass",
+			"$this",
+			"entry",
+			"$scope",
+			"scope",
+			"comment2edit",
+			"scope",
+			"scope.newPost",
+			"$scope",
+			"data",
+			"message",
+			"newPost",
+			"event",
+			"10px",
+			"StreamCtrl",
+			"loadPosts",
+			"Posts",
+			"event",
+			"StreamCtrl",
+			"row",
+			"body",
+			"});\n",
+			"sessionSecret",
+			"events",
+			"ticker",
+			"Ticker",
+			"Events",
+			"events",
+			"Events",
+			"events",
+			"Events",
+			"events",
+			"Events",
+			"out",
+			"in",
+			"event",
+			"message",
+			"sturmologe_query",
+			"sturmologe",
+			"setAnimation",
+			"myMar",
+			"addMarker",
+			"addMa",
+			"center",
+			"markers",
+			"#main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"s12worldwide_query",
+			"s12worldwide"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/Gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 7830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5498,
+								5498
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2872.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/app/index.html",
+					"settings":
+					{
+						"buffer_size": 3150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_font-awesome.scss",
+					"settings":
+					{
+						"buffer_size": 2700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1613,
+								1613
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_socialnav.scss",
+					"settings":
+					{
+						"buffer_size": 533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_imagecontainer.scss",
+					"settings":
+					{
+						"buffer_size": 1546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1546,
+								1546
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 227.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/main.scss",
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_main.scss",
+					"settings":
+					{
+						"buffer_size": 3192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2867,
+								2867
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_normalize.scss",
+					"settings":
+					{
+						"buffer_size": 9508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"sass/main.scss"
+			],
+			[
+				"nor",
+				"sass/_normalize.scss"
+			],
+			[
+				"fonaws",
+				"sass/_font-awesome.scss"
+			],
+			[
+				"fon",
+				"sass/_font-awesome.scss"
+			],
+			[
+				"bas",
+				"sass/_base.scss"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"g",
+				"Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"",
+				"views/admin/ticker/detail.jade"
+			],
+			[
+				"tickdet",
+				"views/ticker/detail.jade"
+			],
+			[
+				"adapi",
+				"routes/admin_api.js"
+			],
+			[
+				"admtickdet",
+				"views/admin/ticker/detail.jade"
+			],
+			[
+				"admapjs",
+				"public/scripts/admin/app.js"
+			],
+			[
+				"admap",
+				"routes/admin_api.js"
+			],
+			[
+				"routadm",
+				"routes/admin_events.js"
+			],
+			[
+				"modcom",
+				"models/comments.js"
+			],
+			[
+				"admdet",
+				"views/admin/ticker/detail.jade"
+			],
+			[
+				"mixcomm",
+				"views/admin/mixins/comment-stream.jade"
+			],
+			[
+				"strscs",
+				"scss/modules/_stream.scss"
+			],
+			[
+				"modpo",
+				"models/posts.js"
+			],
+			[
+				"detail",
+				"views/ticker/detail.jade"
+			],
+			[
+				"models",
+				"models/posts.js"
+			],
+			[
+				"modti",
+				"models/ticker.js"
+			],
+			[
+				"adm",
+				"routes/admin_api.js"
+			],
+			[
+				"mixfor",
+				"views/admin/mixins/form-helpers.jade"
+			],
+			[
+				"admtickcr",
+				"views/admin/ticker/create.jade"
+			],
+			[
+				"admevcre",
+				"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/events/create.jade"
+			],
+			[
+				"mainsc",
+				"scss/base/_main.scss"
+			],
+			[
+				"admevtdet",
+				"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/events/detail.jade"
+			],
+			[
+				"admevdet",
+				"/Users/hochitom/Projekte/Sturm12.at Projekte/liveticker/views/admin/events/detail.jade"
+			],
+			[
+				"contrlstrem",
+				"public/scripts/app/controller/stream.js"
+			],
+			[
+				"serwe",
+				"public/scripts/app/services/websockets.js"
+			],
+			[
+				"ev",
+				"routes/events.js"
+			],
+			[
+				"adma",
+				"routes/admin_api.js"
+			],
+			[
+				"serwbs",
+				"public/scripts/app/services/websockets.js"
+			],
+			[
+				"admde",
+				"views/admin/ticker/detail.jade"
+			],
+			[
+				"str",
+				"public/scripts/app/controller/stream.js"
+			],
+			[
+				"comf",
+				"scss/modules/_comment-form.scss"
+			],
+			[
+				"mains",
+				"scss/main.scss"
+			],
+			[
+				"deti",
+				"views/ticker/detail.jade"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"ada",
+				"routes/admin_api.js"
+			],
+			[
+				"mixhe",
+				"views/admin/mixins/form-helpers.jade"
+			],
+			[
+				"modpos",
+				"models/posts.js"
+			],
+			[
+				"routadmev",
+				"routes/admin_events.js"
+			],
+			[
+				"routesad",
+				"routes/admin_api.js"
+			],
+			[
+				"det",
+				"views/ticker/detail.jade"
+			],
+			[
+				"admapp",
+				"public/scripts/admin/app.js"
+			],
+			[
+				"admlay",
+				"views/admin/layout.jade"
+			],
+			[
+				"adde",
+				"views/admin/ticker/detail.jade"
+			],
+			[
+				"addet",
+				"views/admin/ticker/detail.jade"
+			],
+			[
+				"routrealtjs",
+				"routes/realtime.js"
+			],
+			[
+				"roureltjs",
+				"routes/realtime.js"
+			],
+			[
+				"serjs",
+				"server.js"
+			],
+			[
+				"relt",
+				"routes/realtime.js"
+			],
+			[
+				"adevs",
+				"routes/admin_events.js"
+			],
+			[
+				"s",
+				"server.js"
+			],
+			[
+				"tickde",
+				"views/admin/ticker/detail.jade"
+			],
+			[
+				"modtick",
+				"models/ticker.js"
+			],
+			[
+				"pubscadm",
+				"public/scripts/admin/app.js"
+			],
+			[
+				"admcre",
+				"views/admin/events/create.jade"
+			],
+			[
+				"viind",
+				"views/ticker/index.jade"
+			],
+			[
+				"vieev",
+				"views/events/index.jade"
+			],
+			[
+				"modev",
+				"models/events.js"
+			],
+			[
+				"even",
+				"routes/events.js"
+			],
+			[
+				"modelev",
+				"models/events.js"
+			],
+			[
+				"viecr",
+				"views/events/create.jade"
+			],
+			[
+				"rouadev",
+				"routes/admin_events.js"
+			],
+			[
+				"mixfoh",
+				"views/admin/mixins/form-helpers.jade"
+			],
+			[
+				"adevcre",
+				"views/admin/events/create.jade"
+			],
+			[
+				"vadmcr",
+				"views/admin/events/create.jade"
+			],
+			[
+				"vieadmev",
+				"views/admin/events/detail.jade"
+			],
+			[
+				"admla",
+				"views/admin/layout.jade"
+			],
+			[
+				"admev",
+				"routes/admin_events.js"
+			],
+			[
+				"adla",
+				"views/admin/layout.jade"
+			],
+			[
+				"modevs",
+				"models/events.js"
+			],
+			[
+				"admevscre",
+				"views/admin/events/create.jade"
+			],
+			[
+				"admb",
+				"scss/admin/_base.scss"
+			],
+			[
+				"rout",
+				"node_modules/express.io/node_modules/express/lib/router/route.js"
+			],
+			[
+				"app",
+				"node-liveticker/app.js"
+			],
+			[
+				"mainjs",
+				"node-liveticker/public/js/main.js"
+			],
+			[
+				"layou",
+				"node-liveticker/views/layout.jade"
+			],
+			[
+				"homjs",
+				"node-liveticker/routes/home.js"
+			],
+			[
+				"ap",
+				"node-liveticker/app.js"
+			],
+			[
+				"packjs",
+				"bumm_test/package.json"
+			],
+			[
+				"stre",
+				"pages/stream.html"
+			],
+			[
+				"func",
+				"src/site/templates/functions.php"
+			],
+			[
+				"eventov",
+				"src/site/templates/events-overview.php"
+			],
+			[
+				"evedet",
+				"src/site/templates/events-detail.php"
+			],
+			[
+				"down",
+				"src/site/templates/downloads.php"
+			],
+			[
+				"foo",
+				"src/site/templates/foot.inc"
+			],
+			[
+				"head",
+				"src/site/templates/head.inc"
+			],
+			[
+				"news",
+				"src/site/templates/news-overview.php"
+			],
+			[
+				"newde",
+				"src/site/templates/news-detail.php"
+			],
+			[
+				"tea",
+				"src/site/templates/teacher.php"
+			],
+			[
+				"pagak",
+				"src/site/templates/page-aktuelles.php"
+			],
+			[
+				"sideb",
+				"src/site/templates/snippets/sidebar.php"
+			],
+			[
+				"modnav",
+				"sass/foundation/components/modules/_navbar.scss"
+			],
+			[
+				"basicpag",
+				"src/site/templates/basic-page.php"
+			],
+			[
+				"clas",
+				"src/site/templates/class.php"
+			],
+			[
+				"sett",
+				"sass/foundation/_settings.scss"
+			],
+			[
+				"basipag",
+				"src/site/templates/basic-page.php"
+			],
+			[
+				"bread",
+				"src/site/templates/snippets/breadcrump.php"
+			],
+			[
+				"foundsett",
+				"sass/foundation/_settings.scss"
+			],
+			[
+				"head.in",
+				"src/site/templates/head.inc"
+			],
+			[
+				"foun",
+				"sass/_foundation.scss"
+			],
+			[
+				"sturm",
+				"src/wp-content/plugins/sturmologe/sturmologe.php"
+			],
+			[
+				"styl",
+				"src/wp-content/themes/sturm12/style.css"
+			],
+			[
+				"style",
+				"src/wp-content/themes/sturm12/style.css"
+			],
+			[
+				"spiel",
+				"src/wp-content/plugins/player-db/single-spieler.php"
+			],
+			[
+				"player-db",
+				"src/wp-content/plugins/player-db/playerDB.php"
+			],
+			[
+				"heads",
+				"src/wp-content/plugins/sturm12-map/js/headStorefinder.js"
+			],
+			[
+				"mark",
+				"src/wp-content/plugins/sturm12-map/files/markers.js"
+			],
+			[
+				"anggoo",
+				"src/wp-content/plugins/sturm12-map/js/angular-google-maps.js"
+			],
+			[
+				"mapsc",
+				"sass/map.scss"
+			],
+			[
+				"mapcontro",
+				"src/wp-content/plugins/sturm12-map/js/map-controller.js"
+			],
+			[
+				"page",
+				"src/wp-content/themes/sturm12/page.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}
