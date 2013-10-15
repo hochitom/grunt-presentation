@@ -16,5 +16,5 @@ create first grunt task. concatenate and minify js files.
 # Step3
 add sass task and generate two css files
 
-# Step3
+# Step4
 add watch task to automate process
