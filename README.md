@@ -3,9 +3,11 @@ grunt-presentation
 
 1. install grunt-cli
 
-	git clone git@github.com:hochitom/grunt-presentation.git
-	cd grunt-presentation
-	npm install -g grunt-cli
+```bash
+git clone git@github.com:hochitom/grunt-presentation.git
+cd grunt-presentation
+npm install -g grunt-cli
+```
 
 # Step1
 create package.json and Gruntfile.js
@@ -18,3 +20,7 @@ add sass task and generate two css files
 
 # Step4
 add watch task to automate process
+
+```JavaScript
+grunt.loadNpmTask("grunt-contrib-watch");
+```
