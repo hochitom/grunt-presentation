@@ -2,6 +2,7 @@ module.exports = function (grunt) {
 
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-sass');
+    grunt.loadNpmTasks('grunt-contrib-watch');
 
     grunt.initConfig({
         uglify: {
@@ -32,8 +33,21 @@ module.exports = function (grunt) {
                 },
                 files: [{'app/styles/main.css': 'scss/**/*.scss'}]
             }
+        },
+        watch: {
+            options: {
+                livereload: true
+            },
+            scripts: {
+                files: ['app/styles/*.js'],
+                tasks: ['uglify']
+            },
+            css: {
+                files: ['scss/*.scss'],
+                tasks: ['sass:default']
+            }
         }
     });
 
-    grunt.registerTask('default', ['uglify', 'sass']);
+    grunt.registerTask('default', ['watch']);
 };
