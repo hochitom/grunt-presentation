@@ -7,4 +7,11 @@ grunt-presentation
 	cd grunt-presentation
 	npm install -g grunt-cli
 
-2. create package.json and Gruntfile.js
+# Step1
+create package.json and Gruntfile.js
+
+# Step2
+create first grunt task. concatenate and minify js files.
+
+# Step3
+add sass task and generate two css files
