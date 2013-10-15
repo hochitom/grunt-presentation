@@ -1,8 +1,18 @@
+var mountFolder = function (connect, dir) {
+    return connect.static(require('path').resolve(dir));
+};
+
+var lrSnippet = require('connect-livereload')({port: 87656});
+
 module.exports = function (grunt) {
 
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-contrib-watch');
+    grunt.loadNpmTasks('grunt-contrib-connect');
+    grunt.loadNpmTasks('grunt-open');
+    
+    //require('connect-livereload');
 
     grunt.initConfig({
         uglify: {
@@ -46,8 +56,29 @@ module.exports = function (grunt) {
                 files: ['scss/*.scss'],
                 tasks: ['sass:default']
             }
+        },
+        connect: {
+            options: {
+                port: 9000,
+                hostname: 'localhost'
+            },
+            default: {
+                options: {
+                    middleware: function (connect) {
+                        return [
+                            mountFolder(connect, 'app'),
+                            lrSnippet
+                        ];
+                    }
+                }
+            }
+        },
+        open: {
+            default: {
+                path: 'http://localhost:3000'
+            }
         }
     });
 
-    grunt.registerTask('default', ['watch']);
+    grunt.registerTask('default', ['connect:default', 'open', 'watch']);
 };

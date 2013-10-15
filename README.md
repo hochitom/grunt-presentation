@@ -21,6 +21,5 @@ add sass task and generate two css files
 # Step4
 add watch task to automate process
 
-```JavaScript
-grunt.loadNpmTask("grunt-contrib-watch");
-```
+# Step 5
+add connect task, to run a local server and open url after start
