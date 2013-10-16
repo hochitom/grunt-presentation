@@ -10,6 +10,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-connect');
+    grunt.loadNpmTasks('grunt-contrib-imagemin');
     grunt.loadNpmTasks('grunt-open');
 
     grunt.initConfig({
@@ -39,7 +40,7 @@ module.exports = function (grunt) {
                     lineNumbers: false,
                     sourcemap: false
                 },
-                files: [{'app/styles/main.css': 'scss/**/*.scss'}]
+                files: [{'app/styles/main.min.css': 'scss/**/*.scss'}]
             }
         },
         watch: {
@@ -75,8 +76,19 @@ module.exports = function (grunt) {
             default: {
                 path: 'http://localhost:9000'
             }
+        },
+        imagemin: {
+            build: {
+                files: [{
+                    expand: true,
+                    cwd: 'app/images',
+                    src: '{,*/}*.{png,jpg,jpeg}',
+                    dest: 'app/images'
+                }]
+            }
         }
     });
 
     grunt.registerTask('default', ['connect:default', 'open', 'watch']);
+    grunt.registerTask('build', ['uglify:default', 'sass:build', 'imagemin:build']);
 };
