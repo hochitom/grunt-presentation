@@ -11,8 +11,6 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-open');
-    
-    //require('connect-livereload');
 
     grunt.initConfig({
         uglify: {
@@ -75,7 +73,7 @@ module.exports = function (grunt) {
         },
         open: {
             default: {
-                path: 'http://localhost:3000'
+                path: 'http://localhost:9000'
             }
         }
     });
