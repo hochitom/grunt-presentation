@@ -12,6 +12,7 @@
     "grunt-contrib-imagemin": "~0.3.0",
     "grunt-open": "~0.2.2",
     "connect-livereload": "~0.3.0",
-    "grunt-contrib-qunit": "~0.3.0"
+    "grunt-contrib-qunit": "~0.3.0",
+    "grunt-spritesmith": "~1.11.2"
   }
 }
