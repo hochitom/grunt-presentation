@@ -1,10 +1,15 @@
+var mountFolder = function (connect, dir) {
+    return connect.static(require('path').resolve(dir));
+};
+
 module.exports = function (grunt) {
 
-    grunt.loadNpmTasks('grunt-contrib-uglify');
-    grunt.loadNpmTasks('grunt-contrib-sass');
-    grunt.loadNpmTasks('grunt-contrib-watch');
-    grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
+    grunt.loadNpmTasks('grunt-contrib-connect');
+    grunt.loadNpmTasks('grunt-contrib-uglify');
+    grunt.loadNpmTasks('grunt-contrib-qunit');
+    grunt.loadNpmTasks('grunt-contrib-watch');
+    grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-modernizr');
     grunt.loadNpmTasks('grunt-open');
 
@@ -39,9 +44,6 @@ module.exports = function (grunt) {
             }
         },
         watch: {
-            options: {
-                livereload: true
-            },
             scripts: {
                 files: ['app/styles/*.js'],
                 tasks: ['uglify']
@@ -49,6 +51,12 @@ module.exports = function (grunt) {
             css: {
                 files: ['scss/*.scss'],
                 tasks: ['sass:default']
+            },
+            livereload: {
+                files: ['app/styles_dev/*.css'],
+                options: {
+                    livereload: true
+                }
             }
         },
         connect: {
@@ -58,7 +66,14 @@ module.exports = function (grunt) {
             },
             default: {
                 options: {
-                    base:'app'
+                    middleware: function (connect) {
+                        return [
+                            require('connect-livereload')({
+                                src: "http://localhost:35729/livereload.js?snipver=1"
+                            }),
+                            mountFolder(connect, 'app')
+                        ];
+                    }
                 }
             }
         },
@@ -76,9 +91,20 @@ module.exports = function (grunt) {
                     dest: 'app/images'
                 }]
             }
+        },
+        modernizr: {
+            devFile: "app/scripts/vendor/modernizr.js",
+            outputFile: "app/scripts/vendor/modernizr.min.js",
+            extra: {
+                shiv: false,
+                printshiv: true,
+                load: true,
+                mq: false,
+                cssclasses: true
+            }
         }
     });
 
     grunt.registerTask('default', ['connect:default', 'open', 'watch']);
-    grunt.registerTask('build', ['uglify:default', 'sass:build', 'imagemin:build']);
+    grunt.registerTask('build', ['uglify:default', 'sass:build', 'imagemin:build', 'modernizr']);
 };
