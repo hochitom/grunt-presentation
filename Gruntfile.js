@@ -1,9 +1,3 @@
-var mountFolder = function (connect, dir) {
-    return connect.static(require('path').resolve(dir));
-};
-
-var lrSnippet = require('connect-livereload')({port: 87656});
-
 module.exports = function (grunt) {
 
     grunt.loadNpmTasks('grunt-contrib-uglify');
@@ -11,6 +5,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-connect');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
+    grunt.loadNpmTasks('grunt-modernizr');
     grunt.loadNpmTasks('grunt-open');
 
     grunt.initConfig({
@@ -63,12 +58,7 @@ module.exports = function (grunt) {
             },
             default: {
                 options: {
-                    middleware: function (connect) {
-                        return [
-                            mountFolder(connect, 'app'),
-                            lrSnippet
-                        ];
-                    }
+                    base:'app'
                 }
             }
         },

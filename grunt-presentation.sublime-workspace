@@ -244,67 +244,85 @@
 	"buffers":
 	[
 		{
+			"contents": "",
 			"file": "/Users/hochitom/Projekte/privat/portfolio/Gruntfile.js",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 7830,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "",
 			"file": "/Users/hochitom/Projekte/privat/portfolio/app/index.html",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 3150,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "",
 			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_font-awesome.scss",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 2700,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "",
 			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_socialnav.scss",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 533,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "",
 			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_imagecontainer.scss",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 1546,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "",
 			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/main.scss",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 112,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_main.scss",
 			"settings":
 			{
-				"buffer_size": 3192,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_normalize.scss",
 			"settings":
 			{
-				"buffer_size": 9508,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -572,7 +590,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -580,15 +598,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/Gruntfile.js",
 					"settings":
 					{
-						"buffer_size": 7830,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5498,
-								5498
+								0,
+								0
 							]
 						],
 						"settings":
@@ -703,7 +721,7 @@
 							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2872.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -713,15 +731,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/app/index.html",
 					"settings":
 					{
-						"buffer_size": 3150,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								339,
-								339
+								0,
+								0
 							]
 						],
 						"settings":
@@ -845,15 +863,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_font-awesome.scss",
 					"settings":
 					{
-						"buffer_size": 2700,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1613,
-								1613
+								0,
+								0
 							]
 						],
 						"settings":
@@ -967,7 +985,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -977,15 +995,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_socialnav.scss",
 					"settings":
 					{
-						"buffer_size": 533,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								533,
-								533
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1109,15 +1127,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_imagecontainer.scss",
 					"settings":
 					{
-						"buffer_size": 1546,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1546,
-								1546
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1231,7 +1249,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 227.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1241,15 +1259,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/main.scss",
 					"settings":
 					{
-						"buffer_size": 112,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								63,
-								63
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1371,15 +1389,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_main.scss",
 					"settings":
 					{
-						"buffer_size": 3192,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2867,
-								2867
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1503,15 +1521,15 @@
 					"file": "/Users/hochitom/Projekte/privat/portfolio/sass/_normalize.scss",
 					"settings":
 					{
-						"buffer_size": 9508,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2,
-								2
+								0,
+								0
 							]
 						],
 						"settings":
